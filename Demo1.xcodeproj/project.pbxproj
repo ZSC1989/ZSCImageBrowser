@@ -187,7 +187,7 @@
 				531B4EE61B01CD9900383CBB /* TestTableViewCell.m */,
 				53B724D01B01D0F500D32BA8 /* PrefixHeader.pch */,
 				53ECB13E1B1D5CE000E15843 /* ZSCLabel */,
-				5367FFBF1B05EE21005E84BA /* ZSCPicShow */,
+				5367FFBF1B05EE21005E84BA /* ZSCPicShow图片浏览器 */,
 				5367FF891B05E3EB005E84BA /* SDWebImage */,
 				53B724D11B01D15D00D32BA8 /* QuickController */,
 				531B4ED11B01CD8C00383CBB /* 1.png */,
@@ -274,7 +274,7 @@
 			path = SDWebImage;
 			sourceTree = "<group>";
 		};
-		5367FFBF1B05EE21005E84BA /* ZSCPicShow */ = {
+		5367FFBF1B05EE21005E84BA /* ZSCPicShow图片浏览器 */ = {
 			isa = PBXGroup;
 			children = (
 				5367FFC01B05EE5C005E84BA /* PicInfo.h */,
@@ -282,6 +282,7 @@
 				5367FFC21B05EE5C005E84BA /* ZSCPicShowView.h */,
 				5367FFC31B05EE5C005E84BA /* ZSCPicShowView.m */,
 			);
+			name = "ZSCPicShow图片浏览器";
 			path = ZSCPicShow;
 			sourceTree = "<group>";
 		};
